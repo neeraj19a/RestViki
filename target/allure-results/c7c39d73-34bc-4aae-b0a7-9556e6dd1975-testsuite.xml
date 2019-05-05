@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1557052460341" stop="1557053537222" version="1.4.24.RC3" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test</name>
+    <title>Suite : Test</title>
+    <test-cases>
+        <test-case start="1557052460678" stop="1557052713945" status="passed">
+            <name>testVikiAPI10PerPage[public void RestAPIViki.testVikiAPI10PerPage(java.lang.reflect.Method)]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="RestAPIViki"/>
+                <label name="testMethod" value="testVikiAPI10PerPage"/>
+                <label name="host" value="Nakul"/>
+                <label name="thread" value="9712@Nakul.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1557052713965" stop="1557053537104" status="passed">
+            <name>testVikiAPI50PerPage[public void RestAPIViki.testVikiAPI50PerPage(java.lang.reflect.Method)]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="RestAPIViki"/>
+                <label name="testMethod" value="testVikiAPI50PerPage"/>
+                <label name="host" value="Nakul"/>
+                <label name="thread" value="9712@Nakul.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
